@@ -1,0 +1,15 @@
+body {
+  /*padding-top: 50px;*/
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+  text-decoration: none;
+}
+
+footer{
+  margin-left: 65px;
+  bottom: 20px;
+  position: absolute;
+}
